@@ -1,5 +1,5 @@
 Name: koffice-l10n-gl
-Version: 2.0.91
+Version: 2.1.0
 Release: %mkrel 1
 Summary: Language files for KOffice Galician
 Group: System/Internationalization
